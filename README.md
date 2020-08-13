@@ -1,3 +1,3 @@
 # Clients-Serveurs
 
-Relation en client et serveur PHP
+Relation entre client et serveur PHP
